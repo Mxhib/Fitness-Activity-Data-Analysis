@@ -1,5 +1,5 @@
 # Fitness-Activity-Data-Analysis (EDA)
-Exploratory data analysis of fitness and health activity data using Python.
+Exploratory data analysis of fitness and health activity data using Python and Jupyter.
 
 This project is my first exploratory data analysis (EDA) project and marks the beginning of my work toward an internship in data analytics, data science, or data engineering.
 
